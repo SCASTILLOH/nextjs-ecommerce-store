@@ -1,8 +1,8 @@
-import Footer from "@/components/Footer";
+import Footer from "@/components/footer";
 import "./globals.css";
 import type { Metadata } from "next";
 import { Urbanist } from "next/font/google";
-import NavBar from "@/components/NavBar";
+import NavBar from "@/components/nav-bar";
 
 const font = Urbanist({ subsets: ["latin"] });
 
