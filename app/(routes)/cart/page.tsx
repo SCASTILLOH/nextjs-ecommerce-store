@@ -24,8 +24,8 @@ const CartPage = () => {
                   <CartItem key={item.id} data={item} />
                 ))}
               </ul>
-              <Summary />
             </div>
+            <Summary />
           </div>
         </div>
       </Container>
