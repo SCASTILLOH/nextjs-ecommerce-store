@@ -1,4 +1,4 @@
-# STORE E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
+# STORE E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, Postgreql
 
 Thanks to the instructor Antonio!!
 
